@@ -1,8 +1,8 @@
 ---
 title: Qiita CLIでGitHub Actionsを使って記事を作成する
 tags:
-  - ''
-private: false
+  - 'Qiita CLOI'
+private: true
 updated_at: ''
 id: null
 organization_url_name: null
